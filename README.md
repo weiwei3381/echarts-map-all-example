@@ -3,6 +3,7 @@
 ## 背景
 
 Echarts 新版本对于地图（map）的支持越来越弱，官方示例极少，而且需要使用百度地图 api，很不方便。而之前 echarts2 对于地图的支持非常好，并自带地图数据，以下是 echarts2 版本的地图示例。
+
 ![地图示例1](https://s1.ax1x.com/2020/04/18/Jnlqgg.png)
 
 ## 安装
@@ -29,7 +30,11 @@ echarts_map_examples
 ## 示例
 
 启动服务器后，在浏览器中输入`http://127.0.0.1:8001/echarts-example/map/`即可查看所有的地图示例，一共 27 个，包括模拟迁徙、大规模标注、范围标注、省市地图下钻等等。
+
 ![Jn1YVI.png](https://s1.ax1x.com/2020/04/18/Jn1YVI.png)
+
 ![JnmzE8.png](https://s1.ax1x.com/2020/04/18/Jn1RiV.png)
+
 ![JnntUO.png](https://s1.ax1x.com/2020/04/18/Jn1hzF.png)
+
 ![Jnnf2j.png](https://s1.ax1x.com/2020/04/18/Jn1Hd1.png)
